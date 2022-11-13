@@ -1,11 +1,11 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "net.brynblack",
+		"group": "io.github.brynblack",
 		"id": "equivalency",
 		"version": "${version}",
 		"entrypoints": {
-			"init": "net.brynblack.equivalency.Equivalency"
+			"init": "io.github.brynblack.equivalency.Equivalency"
 		},
 		"depends": [
 			{

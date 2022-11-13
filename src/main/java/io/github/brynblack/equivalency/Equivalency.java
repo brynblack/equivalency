@@ -1,4 +1,4 @@
-package net.brynblack.equivalency;
+package io.github.brynblack.equivalency;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
